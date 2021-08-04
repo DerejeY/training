@@ -1,1 +1,3 @@
 I am just learning command lines
+I creat repo called training
+I am impressed by how git and github works
